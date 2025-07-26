@@ -1,6 +1,6 @@
 # Vani Goyal | Aspiring Software Engineer / Machine Learning Engineer 👋
 
-Hi there! I'm a passionate Computer Engineering student focused on **Full Stack Development** and fascinated by **large-scale system design**.
+Hi there! I'm a passionate Computer Engineering student focused on **Full Stack Software Development** and **Machine Learning**.
 
 **I'm actively seeking Software Engineering Intern and Machine Learning Intern opportunities to apply my skills and contribute to innovative teams.**
 
@@ -18,13 +18,11 @@ Hi there! I'm a passionate Computer Engineering student focused on **Full Stack 
 
 ---
 
-## 🏆 Achievements & Recognition
+## 🏆 Academic Achievements
 
-* **Academic Excellence**:
-    * Achieved a **perfect 10/10 CGPA** in Semester 1 (jointly highest in entire batch) 2023-2024.
-    * Overall CGPA: 9.47/10.
-    * Among top 1 percentile of students in CBSE Board Exams 2023.
-    * Secured 95.2% in Class XII CBSE (2022-2023) and 95.8% in Class X CBSE (2020-2021).
+* Achieved a **perfect 10/10 CGPA** in Semester 1 (jointly highest in entire batch) 2023-2024.
+* Among top 1 percentile of students in CBSE Board Exams 2023.
+* Secured 95.2% in Class XII CBSE (2022-2023) and 95.8% in Class X CBSE (2020-2021).
 
 ---
 
@@ -35,7 +33,7 @@ Hi there! I'm a passionate Computer Engineering student focused on **Full Stack 
     * **COSMETICS SHOP MANAGEMENT SYSTEM** [Repository: *Please provide link*]: Developed a comprehensive Cosmetics Shop Management System to streamline inventory and customer management. Implemented various product management features enabling addition, viewing, and removal of cosmetic products.
         * **Technologies**: Python, MySQL
     * **HANDWRITTEN DIGITS CLASSIFICATION ON MNIST DATASET** [Repository: *Please provide link*]: Implemented popular machine learning models like K-Nearest Neighbour, Convolutional Neural Network, etc. to classify handwritten digits present in MNIST dataset.
-* **Learning**: Data Structures & Algorithms (Completed [Coding Blocks course](https://codingblocks.com/courses/data-structures-and-algorithms-online-course)). Eager to master HTML, CSS, JavaScript, React.
+* **Learning**: Data Structures & Algorithms. Eager to master HTML, CSS, JavaScript, React.
 
 ---
 
