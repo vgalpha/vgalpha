@@ -2,7 +2,7 @@
 
 Hi there! I'm a passionate Computer Engineering student focused on **Full Stack Development** and fascinated by **large-scale system design**.
 
-** I'm actively seeking Software Engineering Intern and Machine Learning Intern opportunities to apply my skills and contribute to innovative teams.**
+**I'm actively seeking Software Engineering Intern and Machine Learning Intern opportunities to apply my skills and contribute to innovative teams.**
 
 ---
 
