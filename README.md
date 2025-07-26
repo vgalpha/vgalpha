@@ -28,12 +28,21 @@ Hi there! I'm a passionate Computer Engineering student focused on **Full Stack 
 
 ## 💻 What I'm Building & Mastering
 
-* **Projects**:
-    * **FEW SHOT LANGUAGE AGNOSTIC KEYWORD SPOTTING SYSTEM** (Smart India Hackathon 2024) [Repository: *Please provide link*]: Proposed a solution to implement a model that can identify and classify keywords of interest in an audio file even when very few samples are provided for training per keyword. The idea was to first train a neural network on a large multilingual dataset assembled from open source datasets like Common Voice, etc. followed by transfer learning to train the model on keywords of interest for which small no. of samples are provided.
-    * **COSMETICS SHOP MANAGEMENT SYSTEM** [Repository: *Please provide link*]: Developed a comprehensive Cosmetics Shop Management System to streamline inventory and customer management. Implemented various product management features enabling addition, viewing, and removal of cosmetic products.
-        * **Technologies**: Python, MySQL
-    * **HANDWRITTEN DIGITS CLASSIFICATION ON MNIST DATASET** [Repository: *Please provide link*]: Implemented popular machine learning models like K-Nearest Neighbour, Convolutional Neural Network, etc. to classify handwritten digits present in MNIST dataset.
-* **Learning**: Data Structures & Algorithms. Eager to master HTML, CSS, JavaScript, React.
+* **FEW SHOT LANGUAGE AGNOSTIC KEYWORD SPOTTING SYSTEM** (Smart India Hackathon 2024)  
+  Built a model to identify keywords in audio with few training samples using multilingual data and transfer learning.  
+  [Repo: https://github.com/vgalpha/KeywordSpottingSystem]
+
+* **COSMETICS SHOP MANAGEMENT SYSTEM**  
+  Developed a system for inventory and customer management with product add/view/remove features.  
+  **Tech:** Python, MySQL  
+  [Repo: https://github.com/vgalpha/CosmeticsShopManagementSystem]
+
+* **HANDWRITTEN DIGITS CLASSIFICATION ON MNIST DATASET**  
+  Used ML models like K-NN and CNN to classify handwritten digits.  
+  [Repo: https://github.com/vgalpha/MNIST-Classification]
+
+# Learning
+Data Structures & Algorithms; learning HTML, CSS, JavaScript, React.
 
 ---
 
