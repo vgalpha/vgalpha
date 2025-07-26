@@ -26,7 +26,7 @@ Hi there! I'm a passionate Computer Engineering student focused on **Full Stack 
 
 ---
 
-## 💻 What I'm Building & Mastering
+## 💻 Projects
 
 * **FEW SHOT LANGUAGE AGNOSTIC KEYWORD SPOTTING SYSTEM** (Smart India Hackathon 2024)  
   Built a model to identify keywords in audio with few training samples using multilingual data and transfer learning.  
@@ -40,10 +40,7 @@ Hi there! I'm a passionate Computer Engineering student focused on **Full Stack 
 * **HANDWRITTEN DIGITS CLASSIFICATION ON MNIST DATASET**  
   Used ML models like K-NN and CNN to classify handwritten digits.  
   [Repo: https://github.com/vgalpha/MNIST-Classification]
-
-# Learning
-Data Structures & Algorithms; learning HTML, CSS, JavaScript, React.
-
+  
 ---
 
 ## 🛠️ My Technical Toolkit
