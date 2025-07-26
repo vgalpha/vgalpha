@@ -14,12 +14,12 @@ Hi there! I'm a passionate Computer Engineering student focused on **Full Stack 
 * **SheFi Scholar** (Feb 2025 - Present)
     * Awarded a fully-paid scholarship to SheFi's competitive 8-week program, focusing on Web3 and crypto education.
     * Collaborated within a global community of over 3,000 members across 90+ countries, fostering networking in the Web3 ecosystem.
+* **GirlScript Summer of Code Contributor**: Selected as a contributor for the prestigious GirlScript Summer of Code program.
 
 ---
 
 ## 🏆 Achievements & Recognition
 
-* **GirlScript Summer of Code Contributor**: Selected as a contributor for the prestigious GirlScript Summer of Code program.
 * **Academic Excellence**:
     * Achieved a **perfect 10/10 CGPA** in Semester 1 (jointly highest in entire batch) 2023-2024.
     * Overall CGPA: 9.47/10.
@@ -30,12 +30,12 @@ Hi there! I'm a passionate Computer Engineering student focused on **Full Stack 
 
 ## 💻 What I'm Building & Mastering
 
-* **Learning**: Data Structures & Algorithms (Completed [Coding Blocks course](https://codingblocks.com/courses/data-structures-and-algorithms-online-course)). Eager to master HTML, CSS, JavaScript, React.
 * **Projects**:
     * **FEW SHOT LANGUAGE AGNOSTIC KEYWORD SPOTTING SYSTEM** (Smart India Hackathon 2024) [Repository: *Please provide link*]: Proposed a solution to implement a model that can identify and classify keywords of interest in an audio file even when very few samples are provided for training per keyword. The idea was to first train a neural network on a large multilingual dataset assembled from open source datasets like Common Voice, etc. followed by transfer learning to train the model on keywords of interest for which small no. of samples are provided.
     * **COSMETICS SHOP MANAGEMENT SYSTEM** [Repository: *Please provide link*]: Developed a comprehensive Cosmetics Shop Management System to streamline inventory and customer management. Implemented various product management features enabling addition, viewing, and removal of cosmetic products.
         * **Technologies**: Python, MySQL
     * **HANDWRITTEN DIGITS CLASSIFICATION ON MNIST DATASET** [Repository: *Please provide link*]: Implemented popular machine learning models like K-Nearest Neighbour, Convolutional Neural Network, etc. to classify handwritten digits present in MNIST dataset.
+* **Learning**: Data Structures & Algorithms (Completed [Coding Blocks course](https://codingblocks.com/courses/data-structures-and-algorithms-online-course)). Eager to master HTML, CSS, JavaScript, React.
 
 ---
 
@@ -63,9 +63,4 @@ Hi there! I'm a passionate Computer Engineering student focused on **Full Stack 
 
 * **LinkedIn**: [vanigoyal126](https://www.linkedin.com/in/vanigoyal126/)
 * **Email**: vanigoyal126@gmail.com
-* **Phone**: +91-8826686302
 * **GitHub**: [vgalpha](https://github.com/vgalpha)
-
----
-
-### Pronouns: She/Her
