@@ -1,4 +1,4 @@
-# Vani Goyal | Aspiring Full Stack Developer 👋
+# Vani Goyal | Aspiring Software Engineer / Machine Learning Engineer 👋
 
 Hi there! I'm a passionate Computer Engineering student focused on **Full Stack Development** and fascinated by **large-scale system design**.
 
