@@ -1,8 +1,8 @@
 # Vani Goyal | Aspiring Software Engineer / Machine Learning Engineer 👋
 
-Hi there! I'm a passionate Computer Engineering student focused on **Full Stack Software Development** and **Machine Learning**.
+Hi there! I'm a passionate BTech. Computer Engineering student (2023-2027) at Thapar Institute of Engineering and Technology with a deep interest in **Full Stack Software Development** and **Machine Learning**.
 
-**I'm actively seeking Software Engineering Intern and Machine Learning Intern opportunities to apply my skills and contribute to innovative teams.**
+**I'm actively seeking Software Engineering Intern and Machine Learning Intern opportunities for Summer 2026 to apply my skills and contribute to innovative teams.**
 
 ---
 
