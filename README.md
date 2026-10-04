@@ -6,7 +6,7 @@
 > ### 🎯 Seeking a full-time Software Engineer role (2027 graduate)
 > Also open to a **6-month SWE Intern role (Jan - Jun 2027) with PPO**.
 
-📬 **Email or DM me on LinkedIn for my resume, referrals or any opportunity.**  
+📬 **Email or DM me on LinkedIn for my resume or any opportunity.**  
 [LinkedIn](https://www.linkedin.com/in/vanigoyal126/) · [vanigoyal126@gmail.com](mailto:vanigoyal126@gmail.com) · [LeetCode](https://leetcode.com/u/vgalpha)
 
 ---
