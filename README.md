@@ -2,7 +2,7 @@
 
 **Software Engineer Intern @ Adobe'26 · LinkedIn CoachIn'25 (top 80 of 10,000+) · B.Tech Computer Engineering (2023-2027) @ Thapar (CGPA: 9.21)**
 
-> [!IMPORTANT]
+> [!NOTE]
 > ### 🎯 Seeking a full-time Software Engineer role (2027 graduate)
 > Also open to a **6-month SWE Intern role (Jan - Jun 2027) with PPO**.
 
