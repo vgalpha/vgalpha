@@ -8,8 +8,11 @@
 > ### 🎯 Seeking a full-time Software Engineer role (2027 graduate)
 > Also open to a **6-month SWE Intern role (Jan - Jun 2027) with PPO**.
 
-📬 **If you have any relevant opportunity, please feel free to email or DM me on LinkedIn.**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanigoyal126/) [![Email](https://img.shields.io/badge/vanigoyal126@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vanigoyal126@gmail.com) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/vgalpha)
+📬 **If you have any relevant opportunity, please feel free to email or DM me on LinkedIn.**
+
+- 💼 **LinkedIn:** [vanigoyal126](https://www.linkedin.com/in/vanigoyal126/)
+- ✉️ **Email:** [vanigoyal126@gmail.com](mailto:vanigoyal126@gmail.com)
+- 🧩 **LeetCode:** [vgalpha](https://leetcode.com/u/vgalpha)
 
 ---
 
