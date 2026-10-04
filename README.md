@@ -43,6 +43,6 @@
 
 * Perfect **10/10 CGPA** in Semester I (highest in college) · **Top of class** in DBMS, C and OOPs
 * **Academic scholarship** (tuition waiver), Semesters I - V
-* DSA certified (Coding Blocks) · Top 1 percentile, CBSE 2023
+* DSA certified ([Coding Blocks](https://codingblocks.com/)) · Top 1 percentile, CBSE 2023
 
 🎓 B.Tech. Computer Engineering, Thapar Institute of Engineering and Technology (2023 - 2027)
