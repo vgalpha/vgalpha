@@ -10,9 +10,9 @@
 
 📬 **If you have any relevant opportunity, please feel free to email or DM me on LinkedIn.**
 
-- 💼 **LinkedIn:** [vanigoyal126](https://www.linkedin.com/in/vanigoyal126/)
-- ✉️ **Email:** [vanigoyal126@gmail.com](mailto:vanigoyal126@gmail.com)
-- 🧩 **LeetCode:** [vgalpha](https://leetcode.com/u/vgalpha)
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="18" align="center"> **LinkedIn:** [vanigoyal126](https://www.linkedin.com/in/vanigoyal126/)
+- <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" height="18" align="center"> **Email:** [vanigoyal126@gmail.com](mailto:vanigoyal126@gmail.com)
+- <img src="https://cdn.simpleicons.org/leetcode/FFA116" alt="LeetCode" height="18" align="center"> **LeetCode:** [vgalpha](https://leetcode.com/u/vgalpha)
 
 ---
 
