@@ -1,53 +1,60 @@
 # Vani Goyal | Aspiring Software Engineer / Machine Learning Engineer 👋
 
-Hi there! I'm a passionate BTech. Computer Engineering student (2023-2027) at Thapar Institute of Engineering and Technology with a deep interest in **Full Stack Software Development** and **Machine Learning**.
+Hi there! I'm a B.Tech. Computer Engineering student (2023-2027) at Thapar Institute of Engineering and Technology with a deep interest in **Full Stack Software Development**, **Machine Learning** and **Agentic AI**.
 
-**I'm actively seeking Software Engineering Intern and Machine Learning Intern opportunities for Summer 2026 to apply my skills and contribute to innovative teams.**
+**I'm actively seeking a 6-month Software Engineer (SWE) Intern role for January - June 2027, with the opportunity of a PPO / full-time conversion.**
 
 ---
 
 ## 💼 Work Experience
 
-* **LinkedIn Coachin Mentee** (Feb 2025 - Present)
-    * Selected as one of the top 80 mentees from over 10,000 applicants across India for LinkedIn's Coachin Program demonstrating strong problem-solving and technical skills.
-    * Received personalized mentorship from Linkedin engineers to enhance coding and technical skills, with direct access to LinkedIn's Summer Internship interview.
-* **SheFi Scholar** (Feb 2025 - Present)
-    * Awarded a fully-paid scholarship to SheFi's competitive 8-week program, focusing on Web3 and crypto education.
-    * Collaborated within a global community of over 3,000 members across 90+ countries, fostering networking in the Web3 ecosystem.
-* **GirlScript Summer of Code Contributor**: Selected as a contributor for the prestigious GirlScript Summer of Code program.
+* **[Adobe](https://www.adobe.com/in/) — Software Engineer Intern** (Jun 2026 - Jul 2026)
+    * Engineered a data migration pipeline from **Adobe Campaign Classic (ACC) to Adobe Journey Optimizer (AJO)**, eliminating **4+ hours of manual, sequential effort**.
+    * Built a custom **MCP (Model Context Protocol) server** for Adobe's Real-Time Customer Data Platform (RTCDP), bridging AI agents and customer data for automated access.
+    * Gained hands-on exposure to prompt engineering using Claude Code and OpenAI Codex in a production engineering environment.
+* **LinkedIn — CoachIn Mentee** (Feb 2025 - Jul 2025)
+    * Selected among the top **80 of 10,000+ applicants** across India for LinkedIn's flagship CoachIn program, with personalized mentorship from LinkedIn software engineers.
+    * Secured direct access to LinkedIn's Summer Internship interview in recognition of exceptional performance.
+* **SheFi Scholar**: Awarded a fully-paid scholarship to SheFi's 8-week Web3 and crypto program, part of a global community of 3,000+ members across 90+ countries.
+* **GirlScript Summer of Code Contributor**: Selected as an open-source contributor for GSSoC.
 
 ---
 
 ## 🏆 Academic Achievements
 
-* Achieved a **perfect 10/10 CGPA** in Semester 1 (jointly highest in entire batch) 2023-2024.
-* Among top 1 percentile of students in CBSE Board Exams 2023.
-* Secured 95.2% in Class XII CBSE (2022-2023) and 95.8% in Class X CBSE (2020-2021).
+* Achieved a **perfect 10/10 CGPA** in Semester I (highest in college).
+* Ranked **top of class** in core CS subjects: DBMS, C Programming and Object-Oriented Programming.
+* Received an **academic scholarship (tuition fee waiver)** for exceptional performance, Semesters I-V.
+* Certified in Data Structures and Algorithms (DSA) — Coding Blocks.
+* Among the top 1 percentile of students in CBSE Board Exams 2023.
 
 ---
 
 ## 💻 Projects
 
-* **FEW SHOT LANGUAGE AGNOSTIC KEYWORD SPOTTING SYSTEM** (Smart India Hackathon 2024)  
-  Built a model to identify keywords in audio with few training samples using multilingual data and transfer learning.  
-  [Repo: https://github.com/vgalpha/KeywordSpottingSystem]
+* **ConverseX — Enhanced Networking with LinkedIn Live** (LinkedIn CoachIn Hackathon, **"Breakthrough Project" award** among 10+ teams)  
+  Browser plugin that turns LinkedIn Live into an interactive networking space; I built the embedding-based recommendation model that matches attendees by skills and interests.  
+  **Tech:** JavaScript, TypeScript, React, Python, Node.js, Express.js, Vector Embeddings  
+  [Repo](https://github.com/vgalpha/ConverseX)
 
-* **COSMETICS SHOP MANAGEMENT SYSTEM**  
-  Developed a system for inventory and customer management with product add/view/remove features.  
+* **Few-shot Language Agnostic Keyword Spotting System** (Smart India Hackathon 2024)  
+  Identifies keywords in audio with very few training samples using multilingual data and transfer learning (~90% classification accuracy).  
+  **Tech:** Python, TensorFlow, CNNs, Audio Signal Processing  
+  [Repo](https://github.com/vgalpha/few-shot-language-agnostic-keyword-spotting-system)
+
+* **Enterprise Retail Management System**  
+  CLI-based inventory management system with role-based access, automated billing and customer handling.  
   **Tech:** Python, MySQL  
-  [Repo: https://github.com/vgalpha/CosmeticsShopManagementSystem]
+  [Repo](https://github.com/vgalpha/enterprise-retail-management-system)
 
-* **HANDWRITTEN DIGITS CLASSIFICATION ON MNIST DATASET**  
-  Used ML models like K-NN and CNN to classify handwritten digits.  
-  [Repo: https://github.com/vgalpha/MNIST-Classification]
-  
 ---
 
 ## 🛠️ My Technical Toolkit
 
-* **Languages**: C++ (Intermediate proficiency), C (Basic Proficiency), Python (Basic Proficiency).
-* **Databases**: MySQL (Basic proficiency).
-* **ML**: Scikit-Learn, Tensorflow, Keras (Basic Proficiency).
+* **Languages**: C++, Python, C, SQL, JavaScript, TypeScript
+* **AI/ML**: Scikit-learn, TensorFlow, Keras, PyTorch
+* **Generative / Agentic AI**: LLMs, Prompt Engineering, AI Agents, MCP (Model Context Protocol), Claude Code, OpenAI Codex
+* **Frameworks / Tools**: React, FastAPI, Node.js, Express.js, Git, GitHub, PyTest, MySQL, MATLAB, AWS
 
 ---
 
@@ -55,11 +62,11 @@ Hi there! I'm a passionate BTech. Computer Engineering student (2023-2027) at Th
 
 * **B.Tech. Computer Engineering** (2023-2027)
     * Thapar Institute of Engineering and Technology
-    * CGPA: 9.47/10
+    * CGPA: 9.21/10
 * **SRDAV Public School, Dayanand Vihar, Delhi**
-    * Class XII CBSE (2022-2023): Percentage: 95.2%
-    * Class X CBSE (2020-2021): Percentage: 95.8%
-* **Relevant Coursework**: C Programming, Operating Systems, Data Structures and Algorithms, Object Oriented Programming, Database Management Systems, Artificial Intelligence/Machine Learning, Probability and Statistics, Mathematics-I & II, Physics, Engineering Chemistry.
+    * Class XII CBSE (2022-2023): 95.2%
+    * Class X CBSE (2020-2021): 95.8%
+* **Relevant Coursework**: Data Structures and Algorithms, Operating Systems, Database Management Systems, Computer Networks, Object Oriented Programming, Artificial Intelligence/Machine Learning, C Programming, Probability and Statistics.
 
 ---
 
@@ -68,3 +75,4 @@ Hi there! I'm a passionate BTech. Computer Engineering student (2023-2027) at Th
 * **LinkedIn**: [vanigoyal126](https://www.linkedin.com/in/vanigoyal126/)
 * **Email**: vanigoyal126@gmail.com
 * **GitHub**: [vgalpha](https://github.com/vgalpha)
+* **LeetCode**: [vgalpha](https://leetcode.com/u/vgalpha)
