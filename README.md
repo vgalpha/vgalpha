@@ -7,6 +7,17 @@
 
 ---
 
+## 🎓 Education
+
+| Institution | Degree | Score |
+|---|---|---|
+| **Thapar Institute of Engineering & Technology**<br>2023 - 2027 | B.Tech. Computer Engineering | CGPA: **9.21 / 10** |
+| **SRDAV Public School, Dayanand Vihar, Delhi**<br>2022 - 2023 | Class XII, CBSE | **95.2%** |
+
+**Coursework:** Data Structures & Algorithms · Operating Systems · DBMS · Computer Networks · OOP · AI / ML
+
+---
+
 ## 🛠️ Tech
 
 | | |
@@ -36,17 +47,6 @@
 | **[ConverseX](https://github.com/vgalpha/ConverseX)** 🏆 | LinkedIn Live networking plugin, **"Breakthrough Project"** among 10+ teams. I built the embedding-based recommendation model | React, TypeScript, Node.js, Python |
 | **[Keyword Spotting System](https://github.com/vgalpha/few-shot-language-agnostic-keyword-spotting-system)** | Few-shot, language-agnostic keyword detection in audio (SIH 2024), ~90% accuracy | Python, TensorFlow, CNNs |
 | **[Enterprise Retail Management](https://github.com/vgalpha/enterprise-retail-management-system)** | CLI inventory + billing system with role-based access | Python, MySQL |
-
----
-
-## 🎓 Education
-
-| Institution | Degree | Score |
-|---|---|---|
-| **Thapar Institute of Engineering & Technology**<br>2023 - 2027 | B.Tech. Computer Engineering | CGPA: **9.21 / 10** |
-| **SRDAV Public School, Dayanand Vihar, Delhi**<br>2022 - 2023 | Class XII, CBSE | **95.2%** |
-
-**Coursework:** Data Structures & Algorithms · Operating Systems · DBMS · Computer Networks · OOP · AI / ML
 
 ---
 
