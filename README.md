@@ -18,12 +18,12 @@
 
 ---
 
-## 💼 Experience
+## 💼 Work Experience
 
 | | Role | Highlights |
 |---|---|---|
 | **[Adobe](https://www.adobe.com/in/)** | Software Engineer Intern<br>Jun - Jul 2026 | Built an **ACC → AJO data migration pipeline** (saves **4+ hrs** of manual work) and a custom **MCP server** for Adobe's RTCDP |
-| **LinkedIn** | CoachIn Mentee<br>Feb - Jul 2025 | Top **80 of 10,000+** applicants; mentored by LinkedIn engineers; direct access to the Summer Internship interview |
+| **[LinkedIn](https://welcomein.my.canva.site/coachin-2026)** | CoachIn Mentee<br>Feb - Jul 2025 | Top **80 of 10,000+** applicants; mentored by LinkedIn engineers; direct access to the Summer Internship interview |
 | **SheFi** | Web3 Scholar<br>2025 | Awarded a fully-paid scholarship to the competitive 8-week Web3 and crypto program; part of a global community of 3,000+ members across 90+ countries |
 | **GirlScript** | Summer of Code (GSSoC) Contributor<br>2025 | Selected as an open-source contributor to the GSSoC program |
 
