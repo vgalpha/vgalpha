@@ -1,6 +1,6 @@
 # Hi, I'm Vani Goyal 👋
 
-![Typing animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1500&color=A371F7&width=520&height=35&lines=Software%20Engineer%20Intern%20%40%20Adobe;Full%20Stack%20%C2%B7%20Machine%20Learning%20%C2%B7%20Agentic%20AI;LinkedIn%20CoachIn%2725%20%C2%B7%20Breakthrough%20Project%20Winner)
+![Typing animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1500&color=A371F7&width=520&height=35&lines=Software%20Engineer%20Intern%20%40%20Adobe;LinkedIn%20CoachIn%2725%20Mentee;Full%20Stack%20Developer%20%C2%B7%20Machine%20Learning%20%C2%B7%20Agentic%20AI;B.Tech%20Computer%20Engineering%20%40%20Thapar)
 
 **Software Engineer Intern @ Adobe'26 · LinkedIn CoachIn'25 (top 80 of 10,000+) · B.Tech Computer Engineering (2023-2027) @ Thapar (CGPA: 9.21)**
 
