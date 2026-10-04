@@ -1,8 +1,8 @@
 # Hi, I'm Vani Goyal 👋
 
-**Software Engineer Intern @ Adobe · LinkedIn CoachIn (top 80 of 10,000+) · SIH 2024 · CGPA 9.21 @ Thapar**
+**Software Engineer Intern @ Adobe'26 · LinkedIn CoachIn'25 (top 80 of 10,000+) · B.Tech Computer Engineering (2023-2027) @ Thapar (CGPA: 9.21)**
 
-🎯 **Open to a 6-month SWE Intern role, Jan - Jun 2027, with PPO / full-time conversion.**  
+🎯 **Seeking a full-time Software Engineer role (2027 graduate). Also open to a 6-month SWE Intern role, Jan - Jun 2027, with PPO.**  
 📬 [LinkedIn](https://www.linkedin.com/in/vanigoyal126/) · [vanigoyal126@gmail.com](mailto:vanigoyal126@gmail.com) · [LeetCode](https://leetcode.com/u/vgalpha)
 
 ---
