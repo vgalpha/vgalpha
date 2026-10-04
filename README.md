@@ -39,10 +39,19 @@
 
 ---
 
+## 🎓 Education
+
+| Institution | Degree | Score |
+|---|---|---|
+| **Thapar Institute of Engineering & Technology**<br>2023 - 2027 | B.Tech. Computer Engineering | CGPA: **9.21 / 10** |
+| **SRDAV Public School, Dayanand Vihar, Delhi**<br>2022 - 2023 | Class XII, CBSE | **95.2%** |
+
+**Coursework:** Data Structures & Algorithms · Operating Systems · DBMS · Computer Networks · OOP · AI / ML
+
+---
+
 ## 🏆 Highlights
 
 * Perfect **10/10 CGPA** in Semester I (highest in college) · **Top of class** in DBMS, C and OOPs
 * **Academic scholarship** (tuition waiver), Semesters I - V
 * DSA certified ([Coding Blocks](https://codingblocks.com/)) · Top 1 percentile, CBSE 2023
-
-🎓 B.Tech. Computer Engineering, Thapar Institute of Engineering and Technology (2023 - 2027)
