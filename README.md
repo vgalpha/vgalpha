@@ -18,7 +18,7 @@
 
 ---
 
-## 🛠️ Tech
+## 🛠️ Technical Skills
 
 | | |
 |---|---|
